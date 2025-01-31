@@ -9,10 +9,6 @@
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)
 
-... 
-
-Insira os tópicos do README em links para facilitar a navegação do leitor
-
 ## Descrição do projeto 
 
 <p align="justify">
